@@ -1,0 +1,3 @@
+Arrow Keys to change mass and radius
+hold and relase left mouse button to place planets
+space bar to clear screen
